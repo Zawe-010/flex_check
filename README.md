@@ -29,8 +29,5 @@ The Peter's Farm website is designed to provide information about the farm, our 
 ## Getting Started
 
 1. **Clone the Repository:**
-   To get started with the project locally, clone this repository to your machine using the following command:
-
-   ```bash
-   git clone https://github.com/Zawe-010/flex_check.git
+   To get started with the project locally, Clone the repository to your local machine:    ```bash    git clone https://github.com/Zawe-010/flex_check.git
 
