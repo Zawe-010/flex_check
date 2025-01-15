@@ -164,6 +164,14 @@ section {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+.team-member img {
+    width: 100%;
+    height: auto;
+    border-radius: .5rem;
+    margin-top: 1rem;
+}
+
+
 .team-member h3 {
     font-size: 1.8rem;
     margin-bottom: 1rem;
