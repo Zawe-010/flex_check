@@ -26,7 +26,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: red;
+    color: rgb(0, 0, 0);
 }
 
 a {
@@ -66,7 +66,7 @@ nav ul li a:hover {
 
 .header-content h1 {
     font-weight: 800;
-    color: rgb(190, 47, 47);
+    color: rgb(0, 0, 0);
     margin-bottom: .5rem;
 }
 
